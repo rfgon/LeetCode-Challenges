@@ -5,7 +5,7 @@ import unittest
 from solution import Solution
 
 
-class TestStringMethods(unittest.TestCase):
+class TestTwoSumMethods(unittest.TestCase):
     """Testing the two sum problem solutions.
     """
 
