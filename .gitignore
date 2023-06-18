@@ -1,4 +1,4 @@
 # Qt Creator
 build*/
 CMake*
-1-Two-Sum/python/__pycache__/
+__pycache__/
