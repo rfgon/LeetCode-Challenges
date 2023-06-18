@@ -1,8 +1,4 @@
 # Qt Creator
 build*/
-<<<<<<< HEAD
-CMake*
-=======
 CMake*
 __pycache__/
->>>>>>> master
