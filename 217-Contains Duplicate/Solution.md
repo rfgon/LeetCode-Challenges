@@ -4,3 +4,5 @@ tags: [" #fleeting-note "]
 aliases: [""]
 ---
 # Solution
+
+Transform input list into set of unique values and compare size of unique values set with input array's.
